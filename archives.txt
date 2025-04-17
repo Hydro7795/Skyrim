@@ -1,0 +1,589 @@
+Skyrim - Misc.bsa
+Skyrim - Shaders.bsa
+Skyrim - Interface.bsa
+Skyrim - Animations.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Sounds.bsa
+Skyrim - Voices_it0.bsa
+Skyrim - Textures0.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures8.bsa
+Skyrim - Patch.bsa
+Skyrim - Voices_en0.bsa
+ccvsvsse004-beafarmer.bsa
+ccvsvsse003-necroarts.bsa
+ccvsvsse002-pets.bsa
+ccvsvsse001-winter.bsa
+cctwbsse001-puzzledungeon.bsa
+ccrmssse001-necrohouse.bsa
+ccqdrsse002-firewood.bsa
+ccqdrsse001-survivalmode.bsa
+ccpewsse002-armsofchaos.bsa
+ccmtysse002-ve.bsa
+ccmtysse001-knightsofthenine.bsa
+cckrtsse001_altar.bsa
+ccfsvsse001-backpacks.bsa
+ccffbsse002-crossbowpack.bsa
+ccffbsse001-imperialdragon.bsa
+cceejsse005-cave.bsa
+cceejsse004-hall.bsa
+cceejsse003-hollow.bsa
+cceejsse002-tower.bsa
+cceejsse001-hstead.bsa
+ccedhsse003-redguard.bsa
+ccedhsse002-splkntset.bsa
+ccedhsse001-norjewel.bsa
+cccbhsse001-gaunt.bsa
+ccbgssse069-contest.bsa
+ccbgssse068-bloodfall.bsa
+ccbgssse067-daedinv.bsa
+ccbgssse066-staves.bsa
+ccbgssse064-ba_elven.bsa
+ccbgssse063-ba_ebony.bsa
+ccbgssse062-ba_dwarvenmail.bsa
+ccbgssse061-ba_dwarven.bsa
+ccbgssse060-ba_dragonscale.bsa
+ccbgssse059-ba_dragonplate.bsa
+ccbgssse058-ba_steel.bsa
+ccbgssse057-ba_stalhrim.bsa
+ccbgssse056-ba_silver.bsa
+ccbgssse055-ba_orcishscaled.bsa
+ccbgssse054-ba_orcish.bsa
+ccbgssse053-ba_leather.bsa
+ccbgssse052-ba_iron.bsa
+ccbgssse051-ba_daedricmail.bsa
+ccbgssse050-ba_daedric.bsa
+ccbgssse045-hasedoki.bsa
+ccbgssse043-crosselv.bsa
+ccbgssse041-netchleather.bsa
+ccbgssse040-advobgobs.bsa
+ccbgssse038-bowofshadows.bsa
+ccbgssse037-curios.bsa
+ccbgssse036-petbwolf.bsa
+ccbgssse035-petnhound.bsa
+ccbgssse034-mntuni.bsa
+ccbgssse031-advcyrus.bsa
+ccbgssse025-advdsgs.bsa
+ccbgssse021-lordsmail.bsa
+ccbgssse020-graycowl.bsa
+ccbgssse019-staffofsheogorath.bsa
+ccbgssse018-shadowrend.bsa
+ccbgssse016-umbra.bsa
+ccbgssse014-spellpack01.bsa
+ccbgssse013-dawnfang.bsa
+ccbgssse012-hrsarmrstl.bsa
+ccbgssse011-hrsarmrelvn.bsa
+ccbgssse010-petdwarvenarmoredmudcrab.bsa
+ccbgssse008-wraithguard.bsa
+ccbgssse007-chrysamere.bsa
+ccbgssse006-stendarshammer.bsa
+ccbgssse005-goldbrand.bsa
+ccbgssse004-ruinsedge.bsa
+ccbgssse003-zombies.bsa
+ccbgssse002-exoticarrows.bsa
+ccbgssse001-fish.bsa
+ccasvsse001-almsivi.bsa
+ccafdsse001-dwesanctuary.bsa
+WoW Dragon Mounds CTD Fix.bsa
+Vanilla Script MicroOptimizations.bsa
+Unofficial Skyrim Special Edition Patch - Textures.bsa
+Unofficial Skyrim Special Edition Patch.bsa
+Unofficial Skyrim Creation Club Content Patch.bsa
+CC Misc Patches - Sunder and Wraithguard.bsa
+SkyUI_SE.bsa
+MCMHelper.bsa
+UIExtensions.bsa
+AHZmoreHUD.bsa
+toggle compass hotkey.bsa
+AMatterOfTime.bsa
+WM_WidgetMod.bsa
+Atlas Map Markers.bsa
+Atlas Map Markers - Textures.bsa
+UnreadBooksGlow.bsa
+RaceMenu.bsa
+Chapter II - Soundtrack mod by Dreyma Music.bsa
+The Southerner Diaries - A Soundtrack Expansion.bsa
+Symphonic Soundtrack v2HQ - Extension.bsa
+Ragnarok.bsa
+Audio Overhaul Skyrim.bsa
+Exhaustion.bsa
+Exhaustion - Textures.bsa
+Cutting Room Floor.bsa
+Cutting Room Floor - Textures.bsa
+TimingIsEverything.bsa
+TheChoiceIsYours.bsa
+LegacyoftheDragonborn.bsa
+LegacyoftheDragonborn - Textures.bsa
+DBM_ReplicaPatch.bsa
+DBM_AOB_ReplicaPatch.bsa
+DBM_TOK_ReplicaPatch.bsa
+DBM_RelicNotifications.bsa
+BSAssets - Textures.bsa
+BSAssets.bsa
+BSHeartland - Textures.bsa
+BSHeartland.bsa
+BS_DLC_patch.bsa
+Wyrmstooth.bsa
+Wyrmstooth - Textures.bsa
+WheelsOfLull.bsa
+WheelsOfLull - Textures.bsa
+lullfish - Textures.bsa
+lullfish.bsa
+Vigilant.bsa
+VigilantHiResPackSE.bsa
+VIGILANT - My patches by Xtudo - M'que robes fix.bsa
+VIGILANT - My patches by Xtudo - M'que robes fix - Textures.bsa
+VIGILANT - My patches by Xtudo - Stendarr statue replacer.bsa
+VIGILANT - My patches by Xtudo - Stendarr statue replacer - Textures.bsa
+Unslaad.bsa
+forgottencity - textures.bsa
+forgottencity.bsa
+Dwarfsphere.bsa
+Dwarfsphere - Textures.bsa
+DwarfsphereImprovedPatch.bsa
+Dwarfsphere_Weapons - Textures.bsa
+Dwarfsphere_Weapons.bsa
+Haem Projects Goblands - Textures.bsa
+Haem Projects Goblands.bsa
+evgSIRENROOT - Textures.bsa
+evgSIRENROOT.bsa
+arnima.bsa
+Gray Fox Cowl - Textures.bsa
+Gray Fox Cowl.bsa
+Camel.bsa
+RemnantsHammerfell.bsa
+Gray Cowl of Nocturnal SE - Music Overhaul.bsa
+Clockwork.bsa
+Clockwork - Textures.bsa
+ClockworkBugFixes.bsa
+ClockworkShrineSwapper.bsa
+Identity Crisis - Textures.bsa
+Identity Crisis.bsa
+moonpath - textures.bsa
+moonpath.bsa
+Moonpath Blacksmith Forge Water Fix.bsa
+Midwood Isle.bsa
+Midwood Isle - Cats0.bsa
+Midwood Isle - Cats - Textures.bsa
+Midwood Isle - Cats.bsa
+Falskaar.bsa
+Falskaar - Textures.bsa
+MoonAndStar_MAS - Textures.bsa
+MoonAndStar_MAS.bsa
+ClockworkMASLamTranslate.bsa
+Undeath.bsa
+Undeath - Textures.bsa
+UndeathFixes.bsa
+UndeathFixes - The Cause Patch.bsa
+MissivesGrayCowlMap.bsa
+Tools of Kagrenac - Textures.bsa
+Tools of Kagrenac.bsa
+CurseOfTheHoundAmulet - Textures.bsa
+CurseOfTheHoundAmulet.bsa
+HD Lods SSE.bsa
+Footprints.bsa
+NAT-ENB.bsa
+NAT-ENB - Textures.bsa
+RASS - Visual Effects - Textures.bsa
+RASS - Visual Effects.bsa
+Morning Fogs SSE.bsa
+ShootingStars.bsa
+ShootingStars - Textures.bsa
+Rainbows.bsa
+Rainbows - Textures.bsa
+GKBWavesReborn.bsa
+GKBWavesReborn - Textures.bsa
+Rainbows over Waterfalls.bsa
+High Poly Head.bsa
+SFO_SkinFeatureOverlays.bsa
+Beards of Power.bsa
+FMS_FemaleMakeupSuite.bsa
+Improved Eyes Skyrim.bsa
+DVA - Dynamic Vampire Appearance.bsa
+CommunityOverlays1_0T30.bsa
+CommunityOverlays2_31T50.bsa
+CommunityOverlays3.bsa
+WNB_WeatheredNordicBodypaints.bsa
+RM_AnimatedOverlays - Textures.bsa
+RM_AnimatedOverlays.bsa
+3DNPC1.bsa
+3DNPC.bsa
+3DNPC - Textures.bsa
+3DNPC0.bsa
+Inigo.bsa
+Lucien.bsa
+Lucien-AnniversaryEdition-Patch.bsa
+Lucien-Bruma-Patch.bsa
+Lucien-Moonpath-Patch.bsa
+HLIZRemiArnima.bsa
+HLIORemi.bsa
+HLIIRemiLOTD.bsa
+HLIORemi - Textures.bsa
+VIGILANT - My patches by Xtudo - Gwyneth replacer - Textures.bsa
+VIGILANT - My patches by Xtudo - Gwyneth replacer.bsa
+NW_Sons_of_Skyrim - Combined Armors - Falkreath by Xtudo.bsa
+NW_Sons_of_Skyrim - Combined Armors - Falkreath by Xtudo - Textures.bsa
+NW_Sons_of_Skyrim - Combined Armors - Markarth by Xtudo - Textures.bsa
+NW_Sons_of_Skyrim - Combined Armors - Markarth by Xtudo.bsa
+NW_Sons_of_Skyrim - Combined Armors - SC Officer by Xtudo.bsa
+NW_Sons_of_Skyrim - Combined Armors - SC Officer by Xtudo - Textures.bsa
+NW_Sons_of_Skyrim - Combined Armors - Winterhold by Xtudo - Textures.bsa
+NW_Sons_of_Skyrim - Combined Armors - Winterhold by Xtudo.bsa
+DIbella's Blessing - Textures.bsa
+DIbella's Blessing.bsa
+Sons of Nirn - Whiterun.bsa
+Sons of Nirn - Whiterun - Textures.bsa
+NITHI NPCs - Whiterun - Men.bsa
+NITHI NPCs - Whiterun - Women.bsa
+NITHI NPCs - The Thieves Guild - Men.bsa
+NITHI NPCs - The Rift - Men.bsa
+NITHI NPCS - The Rift - Women.bsa
+NITHI NPCS - Eastmarch - Men.bsa
+NITHI NPCS - Eastmarch - Women.bsa
+NITHI NPCs - The Reach - Men.bsa
+NITHI NPCs - The Reach - Women.bsa
+NITHI NPCS - Dawnguard DLC - Volkihar - Women.bsa
+NITHI NPCS - Dawnguard DLC - Volkihar - Men.bsa
+NITHI NPCS - Dawnguard DLC - Fort Dawnguard - Women.bsa
+NITHI NPCS - Dawnguard DLC - Fort Dawnguard - Men.bsa
+BeastHHBB.bsa
+BeastHHBB - Textures.bsa
+RSChildren.bsa
+RSChildren - Textures.bsa
+MoonAndStar_RSC_Patch.bsa
+MoonAndStar_RSC_Patch - Textures.bsa
+Dawn of Skyrim.bsa
+Dawn of Skyrim - Textures.bsa
+IllustratedTownPanels.bsa
+JK's Whiterun's Outskirts - Textures.bsa
+JK's Whiterun's Outskirts.bsa
+JK's Solitude Outskirts.bsa
+JK's Riften Outskirts.bsa
+JK's Markarth Outskirts.bsa
+Windhelm Bridge Revived.bsa
+JK's Windhelm's Outskirts.bsa
+JKs Skyrim - Textures.bsa
+JKs Skyrim.bsa
+Thuldor's Ivarstead - Textures.BSA
+Thuldor's Ivarstead.BSA
+COTN - Morthal - Textures.bsa
+COTN - Morthal.bsa
+COTN Morthal - JK's Skyrim Patch.bsa
+Lainalten.bsa
+Half-Moon Mill - COTNed.bsa
+COTN Addon - Anga's Mill - Textures.bsa
+COTN Addon - Anga's Mill.bsa
+Sunthgat.bsa
+AnotherOakwood.bsa
+Reich Corigate.bsa
+Granite Hill.bsa
+Amber Guard.bsa
+Dunpar Wall.bsa
+Vernim Wood.bsa
+JK's Riverfall Cottage.bsa
+JK's Riverfall Cottage - Textures.bsa
+Eli_Sicarius' Refuge - Textures.bsa
+Eli_Sicarius' Refuge.bsa
+WindPath.bsa
+HearthfireMultiKid.bsa
+JK's Fort Dawnguard.bsa
+JK's Castle Volkihar.bsa
+Drinking Fountains of Skyrim for SSE.bsa
+HoldBorderBanners.bsa
+SkyrimSewers.bsa
+SkyrimSewers - Textures.bsa
+Distinct Interiors.bsa
+JK's Dragonsreach.bsa
+RedBag's Dragonsreach.bsa
+JK's The Winking Skeever.bsa
+JK's New Gnisis Cornerclub - Textures.bsa
+JK's New Gnisis Cornerclub.bsa
+JK's Palace of the Kings.bsa
+JK's Blue Palace.bsa
+JK's Understone Keep.bsa
+JK's Haelga's Bunkhouse.bsa
+JK's High Hrothgar.bsa
+JK's Septimus Signus's Outpost.bsa
+JK's Sinderion's Field Laboratory.bsa
+JK's Castle Dour - Textures.bsa
+JK's Castle Dour.bsa
+JK's The Bards College.bsa
+JK's The Bards College - Textures.bsa
+JK's College of Winterhold - Textures.bsa
+JK's College of Winterhold.bsa
+Paintings for the College of Winterhold - JKs College of Winterhold - Textures.bsa
+Paintings for the College of Winterhold - JKs College of Winterhold.bsa
+GG's Thieves Guild Headquarters - Textures.bsa
+GG's Thieves Guild Headquarters.bsa
+JS Rumpled Rugs SE.bsa
+aMidianBorn_Book of Silence.bsa
+FurSet by keung - Textures.bsa
+FurSet by keung.bsa
+practical_pirate - textures.bsa
+practical_pirate.bsa
+The Legends-Breton Knight.bsa
+The Legends-Breton Knight - Textures.bsa
+Traveling Mage - My version by Xtudo - Textures.bsa
+Traveling Mage - My version by Xtudo.bsa
+Armors of the Velothi.bsa
+Armors of the Velothi - Textures.bsa
+Armors of the Velothi Pt2.bsa
+Armors of the Velothi Pt2 - Textures.bsa
+SPOAsilverknight.bsa
+SPOAsilverknight - Textures.bsa
+Blackened Steel Armor and weapon set.bsa
+Blackened Steel Armor and weapon set - Textures.bsa
+DrifterArmorAndOutfitByXtudo.bsa
+DrifterArmorAndOutfitByXtudo - Textures.bsa
+Viridian Armor - Color Variations.bsa
+KvetchiMercenary - Textures.bsa
+KvetchiMercenary.bsa
+League of Assassins Armor.bsa
+ColovianPrince.bsa
+ColovianPrince - Textures.bsa
+Imperial Agent Armor.bsa
+Redguard Armor - Textures.bsa
+Redguard Armor.bsa
+Pirate Armor.bsa
+Knight Armor.bsa
+Knight Armor - Textures.bsa
+Vampire Hunter Armor - Textures.bsa
+Vampire Hunter Armor.bsa
+Unsullied Armor.bsa
+Unsullied Armor - Textures.bsa
+Drow Armor Set.bsa
+Drow Armor Set - textures.bsa
+Lords of Coldharbour.bsa
+Lords of Coldharbour - Textures.bsa
+Dreaded Relics - Textures.bsa
+Dreaded Relics.bsa
+Archmage SE - Johnskyrim.bsa
+Eli_Battle Mage Armour - Textures.bsa
+Eli_Battle Mage Armour.bsa
+CollegePrestigeMageOutfit - Textures.bsa
+CollegePrestigeMageOutfit.bsa
+NemesisArmorSSE - Textures.bsa
+NemesisArmorSSE.bsa
+Seascale.bsa
+Seascale - Textures.bsa
+FerrumNibenis - Textures.bsa
+FerrumNibenis.bsa
+siltstriderarmor.bsa
+siltstriderarmor - Textures.bsa
+Titus Mede I's Armor.bsa
+Titus Mede I's Armor - Textures.bsa
+TW3WolvenLvl5 - Textures.bsa
+CiriOutfit.bsa
+CiriOutfit - Textures.bsa
+[Ashtoreth] Ahlanna Armor - Textures.bsa
+CrownPlate.bsa
+CrownPlate - Textures.bsa
+DCR_KingCrusaderMegaPack_SSE.bsa
+DCR_KingCrusaderMegaPack_SSE - Textures.bsa
+AegisAnuad.bsa
+AegisAnuad - Textures.bsa
+EastholdTotemicSet.bsa
+EastholdTotemicSet - Textures.bsa
+AetheriumSwordsnArmor.bsa
+Black Mage Armor SE - Textures.bsa
+Black Mage Armor SE.bsa
+[Ashtoreth] Black Hellebore - Textures.bsa
+[Ashtoreth] Duskrogue Armor.bsa
+[Ashtoreth] Duskrogue Armor - Textures.bsa
+[Ashtoreth] Maya Instinct Killer.bsa
+[Ashtoreth] Maya Instinct Killer - Textures.bsa
+[Ashtoreth] Spartacus Slave.bsa
+[Ashtoreth] Spartacus Slave - Textures.bsa
+Apachii_DivineEleganceStore - Textures.bsa
+Apachii_DivineEleganceStore.bsa
+rugged_rogue.bsa
+rugged_rogue - textures.bsa
+toughened_traveler.bsa
+toughened_traveler - textures.bsa
+wilderness_witch.bsa
+wilderness_witch - Textures.bsa
+Weapons Armor Clothing & Clutter Fixes - Textures.bsa
+Weapons Armor Clothing & Clutter Fixes.bsa
+WACCF_Armor and Clothing Extension - Textures.bsa
+WACCF_Armor and Clothing Extension.bsa
+Dr_Bandolier.bsa
+Dr_Bandolier - Textures.bsa
+TighterBandoliers.bsa
+Ferrymen - New Outfits by Xtudo.bsa
+Ferrymen - New Outfits by Xtudo - Textures.bsa
+SkyforgedWeapons - Textures.bsa
+SkyforgedWeapons.bsa
+DawnguardArsenal.bsa
+TW3Weaponry.bsa
+TW3Weaponry - Textures.bsa
+ImperialFalchion_by_Flarescale - Textures.bsa
+ImperialFalchion_by_Flarescale.bsa
+ISD_RavensBeak - Textures.bsa
+ISD_RavensBeak.bsa
+[Ashtoreth] Sword of Peru.bsa
+[Ashtoreth] Sword of Peru - Textures.bsa
+IceBladeOfTheMonarch.bsa
+PrvtIRoyalArmory.bsa
+ZIA_Complete Pack.bsa
+ZIA_Complete Pack - Textures.bsa
+SPOA_shield.bsa
+SPOA_shield - Textures.bsa
+Drizzt_Swords.bsa
+Drizzt_Swords - Textures.bsa
+Ebonblade Waraxe SE - Johnskyrim.bsa
+Lvx_Curved_Sword - Textures.bsa
+Lvx_Curved_Sword.bsa
+DiverseDragonsCollectionSE - Textures.bsa
+DiverseDragonsCollectionSE.bsa
+Bears of the North - Textures.bsa
+Bears of the North.bsa
+ACatsLife.bsa
+NewZombies.bsa
+NewZombies - Textures.bsa
+UniqueBarbas.bsa
+JS Emissive Eyes SE - Johnskyrim.bsa
+Magic of Vile Darkness - NPCS - textures.bsa
+Magic of Vile Darkness - NPCS.bsa
+DraugrMCO.bsa
+DraugrMCO - textures.bsa
+ogBogmort - Textures.bsa
+ogBogmort.bsa
+DwemerSpectresLegendary - Textures.bsa
+DwemerSpectresLegendary.bsa
+LeftHandRings.bsa
+LeftHandRings - Textures.bsa
+SL01AmuletsSkyrim - Textures.bsa
+SL01AmuletsSkyrim.bsa
+JS Unique Utopia SE - Rings - Standalone.bsa
+SkyrimsUniqueTreasures.bsa
+SkyrimsUniqueTreasures - Textures.bsa
+WZOblivionArtifacts.bsa
+WZOblivionArtifacts - Textures.bsa
+ArtifactsOfBoethiah.bsa
+BGCollectables - Textures.bsa
+BGCollectables.bsa
+treasure_hunt.bsa
+TreasureHunter.bsa
+Skyshards.bsa
+dD - Enhanced Blood Main.bsa
+SUDs.bsa
+DeadlySpellImpacts - Textures.bsa
+DustEffectsSSE.bsa
+Lux - Resources - Textures.bsa
+Lux Via.bsa
+Lux Via - Textures.bsa
+Lux - Resources.bsa
+SimplyKnock.bsa
+Apocalypse - Magic of Skyrim.bsa
+Apocalypse - Magic of Skyrim - Textures.bsa
+Thunderchild - Epic Shout Package.bsa
+Thunderchild - Epic Shout Package - Textures.bsa
+MysticismMagic.bsa
+SPERG-SSE.bsa
+Adamant.bsa
+Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
+Vokrii - Minimalistic Perks of Skyrim.bsa
+Ordinator - Perks of Skyrim.bsa
+Ordinator - Perks of Skyrim - Textures.bsa
+Apocalypse - Ordinator Compatibility Patch.bsa
+Thaumaturgy.bsa
+Elemental Destruction Magic Redux - Textures.bsa
+Elemental Destruction Magic Redux.bsa
+Triumvirate - Mage Archetypes.bsa
+Triumvirate - Mage Archetypes - Textures.bsa
+Shockwave.bsa
+Astral.bsa
+StormCalling.bsa
+Vulcano.bsa
+Vulcano - Textures.bsa
+Arclight.bsa
+Arclight - Textures.bsa
+Supernova.bsa
+Desecration - Textures.bsa
+Desecration.bsa
+Lightpower.bsa
+W3S.bsa
+Abyss.bsa
+Ghostlight.bsa
+AncientBloodII.bsa
+Mundus.bsa
+Conduit.bsa
+Conduit - Textures.bsa
+StrangeRunes - Textures.bsa
+StrangeRunes.bsa
+DragonbornShoutPerks.bsa
+Campfire.bsa
+SunHelmSurvival.bsa
+DBM_InnSoaps_Patch.bsa
+Complete Crafting Overhaul_Remastered - Textures.bsa
+Complete Crafting Overhaul_Remastered.bsa
+Apothecary.bsa
+Gourmet.bsa
+HonedMetal.bsa
+Valravn - Integrated Combat of Skyrim.bsa
+SekiroCombat_II.bsa
+TrueArmor.bsa
+Better Vampire NPCs.bsa
+Better Vampire NPCs - Textures.bsa
+Bandit War.bsa
+Bandit War - Textures.bsa
+Bandit War - Bruma.bsa
+Madmen.bsa
+VioLens SE.bsa
+Dismembering Framework.bsa
+DF - Official Humanoid Pack.bsa
+DF - Official Creature Pack.bsa
+Next-Gen Decapitations.bsa
+SimplyBalanced.bsa
+Trade & Barter.bsa
+C.O.I.N - Textures.bsa
+C.O.I.N.bsa
+run for your lives - textures.bsa
+run for your lives.bsa
+Guard Dialogue Overhaul.bsa
+Relationship Dialogue Overhaul.bsa
+Wintersun - Faiths of Skyrim - Textures.bsa
+Wintersun - Faiths of Skyrim.bsa
+Headhunter - Bounties Redone.bsa
+SimplestHorses.bsa
+Paragliding&DeformationSpell Patch.bsa
+Aetherius.bsa
+Growl - Werebeasts of Skyrim.bsa
+Sacrosanct - Vampires of Skyrim - Textures.bsa
+Sacrosanct - Vampires of Skyrim.bsa
+SacrosanctTweaks.bsa
+BurningSilver.bsa
+Gotobed.bsa
+Better Courier - Textures.bsa
+Better Courier.bsa
+EquipSpellTomesNELRtoNPCs - Textures.bsa
+EquipSpellTomesNELRtoNPCs.bsa
+BurySinderion.bsa
+DBM_Wintersun_Patch.bsa
+DBM_WheelsofLull_Patch.bsa
+DBM_WheelsofLull_Patch - Textures.bsa
+DBM_Vigilant_Patch.bsa
+DBM_TreasureHunter_Patch.bsa
+DBM_TOK_Patch.bsa
+DBM_TheGrayCowlofNocturnal_Patch.bsa
+DBM_TeldrynSerious_Patch.bsa
+DBM_RSChildren_Patch.bsa
+DBM_Moonpath_Patch.bsa
+DBM_TeldrynSerious_Patch - Textures.bsa
+DBM_Falskaar_Patch.bsa
+DBM_CloaksofSkyrim_Patch.bsa
+DBM_MAS_Patch.bsa
+DBM_KA_Patch.bsa
+DBM_ForgottenCity_Patch.bsa
+DBM_Clockwork_Patch.bsa
+DBM_Wyrmstooth_Patch.bsa
+DBM_AetheriumWeapons_Patch.bsa
+DBM_BGCollectables_Patch.bsa
+DBM_NewTreasureHunt_Patch.bsa
